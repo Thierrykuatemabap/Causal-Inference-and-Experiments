@@ -1,0 +1,3 @@
+-r requirements-compute.txt
+# Notebook interface; recorded verification used sequential code execution.
+notebook
